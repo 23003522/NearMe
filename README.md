@@ -128,7 +128,7 @@ Serves both veg and non-veg food
 ## OUTPUT
 
 ![OUTPUT](./home.JPG)
-![OUTPUT](./clinic.JPG)e1)
+![OUTPUT](./clinic.JPG)
 
 ![OUTPUT](./hospital.JPG)
 ![OUTPUT](./jangoz.JPG)
