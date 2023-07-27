@@ -127,8 +127,8 @@ Serves both veg and non-veg food
 ```
 ## OUTPUT
 
-![OUTPUT](./placesaroundme.JPG)
-![OUTPUT](./clinic.JPG)![clinic](https://github.com/23003522/NearMe/assets/138849213/150e7e84-2e67-4c0f-94dc-400e4089e1e1)
+![OUTPUT](./home.JPG)
+![OUTPUT](./clinic.JPG)e1)
 
 ![OUTPUT](./hospital.JPG)
 ![OUTPUT](./jangoz.JPG)
