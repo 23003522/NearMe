@@ -19,7 +19,7 @@ now run the server and take the screenshot of the outputs.
 
 <body>
 
-<img id="Image-Maps-Com-image-maps-2023-07-27-054934" src="/ex04/NearMe/home.JPG" border="0" width="1920" height="953" orgWidth="1920" orgHeight="953" usemap="#image-maps-2023-07-27-054934" alt="" />
+<img id="Image-Maps-Com-image-maps-2023-07-27-054934" src="/NearMe/images/home.JPG" border="0" width="1920" height="953" orgWidth="1920" orgHeight="953" usemap="#image-maps-2023-07-27-054934" alt="" />
 <map name="image-maps-2023-07-27-054934" id="ImageMapsCom-image-maps-2023-07-27-054934">
 <area  alt="" title="jangoz" href="/static/html/jangoz.html" shape="rect" coords="752,458,837,515" style="outline:none;" target="_self"     />
 <area  alt="" title="fun" href="/static/html/fun.html" shape="rect" coords="720,516,805,573" style="outline:none;" target="_self"     />
@@ -128,7 +128,8 @@ Serves both veg and non-veg food
 ## OUTPUT
 
 
-![OUTPUT](./home.JPG)
+![OUTPUT](./home.JPG)![Screenshot 2023-08-07 093355](https://github.com/23003522/NearMe/assets/138849213/d1771f83-c81d-4ca2-a702-532d49ca9da0)
+
 ![OUTPUT](./clinic.JPG)
 
 ![OUTPUT](./hospital.JPG)
