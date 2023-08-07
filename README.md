@@ -128,7 +128,7 @@ Serves both veg and non-veg food
 ## OUTPUT
 
 
-![OUTPUT](./home.JPG)![Screenshot 2023-08-07 093355](https://github.com/23003522/NearMe/assets/138849213/d1771f83-c81d-4ca2-a702-532d49ca9da0)
+![Screenshot 2023-08-07 093355](https://github.com/23003522/NearMe/assets/138849213/d1771f83-c81d-4ca2-a702-532d49ca9da0)
 
 ![OUTPUT](./clinic.JPG)
 
